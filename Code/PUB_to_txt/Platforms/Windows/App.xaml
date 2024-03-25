@@ -1,0 +1,8 @@
+﻿<maui:MauiWinUIApplication
+    x:Class="PUB_to_txt.WinUI.App"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:maui="using:Microsoft.Maui"
+    xmlns:local="using:PUB_to_txt.WinUI">
+
+</maui:MauiWinUIApplication>
